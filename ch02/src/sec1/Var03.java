@@ -18,6 +18,10 @@ public class Var03 {
 		
 		
 		String j="kim";	//
+		byte byteValue = 10;
+		float floatValue = 2.4f;
+		double doubleValus = 2.5;
+		
 		
 	}
 
