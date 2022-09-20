@@ -23,7 +23,7 @@ public class MemberEx {
 		System.out.println("당신의 아이디 : "+mem4.getId());
 		System.out.println("당신의 사는곳 : "+mem4.getAddress());
 
-		MemberContoller mc = new MemberContoller();
+		MemberController mc = new MemberController();
 		mc.join("kyj", "1004", "연정");
 		mc.info();
 		mc.login("kyj", "1004");

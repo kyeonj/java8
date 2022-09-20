@@ -6,6 +6,9 @@
 <fullyQualifiedTypeName name="sec2.Week"/>
 <fullyQualifiedTypeName name="java.sql.Date"/>
 <fullyQualifiedTypeName name="sec1.Member"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="sec1.MemberContoller"/>
+<fullyQualifiedTypeName name="sec2.CarEx"/>
+<fullyQualifiedTypeName name="sec2.Student"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="sec2.Car"/>
 </qualifiedTypeNameHistroy>
