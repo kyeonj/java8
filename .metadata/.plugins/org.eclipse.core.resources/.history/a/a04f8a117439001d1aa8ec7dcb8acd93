@@ -1,0 +1,6 @@
+package sec2;
+
+public class Acconut {
+	//게터세터는 private을 써야함
+	
+}

@@ -8,7 +8,8 @@
 <fullyQualifiedTypeName name="sec1.Member"/>
 <fullyQualifiedTypeName name="sec1.MemberContoller"/>
 <fullyQualifiedTypeName name="sec2.CarEx"/>
-<fullyQualifiedTypeName name="sec2.Student"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="sec2.Car"/>
+<fullyQualifiedTypeName name="sec2.Product"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="sec2.Student"/>
 </qualifiedTypeNameHistroy>

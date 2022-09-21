@@ -1,0 +1,12 @@
+package sec2;
+
+public class AcconutEx {
+
+	public static void main(String[] args) {
+		//클래스명의 변수지정후 새로운값을 만들어줌.
+		//Acconut 에서 셋어카운트해서 계좌번호를입력해줌
+		//
+
+	}
+
+}
