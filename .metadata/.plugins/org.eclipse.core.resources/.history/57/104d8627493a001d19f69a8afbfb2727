@@ -68,11 +68,5 @@ public class Product {
 	public void printImg(){
 		System.out.println("이미지 : "+img);
 	}
-	public void PrintProduct(){
-		System.out.println("제품아이디 : "+pid);
-		System.out.println("제품이름 : "+pname);
-		System.out.println("제품수량 : "+amount);
-		System.out.println("제품가격 : "+price);
-		System.out.println("이미지 : "+img);
-	}
+	public void Print
 }
