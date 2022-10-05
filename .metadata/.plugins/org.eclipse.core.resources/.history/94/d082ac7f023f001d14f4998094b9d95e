@@ -1,9 +1,0 @@
-package sec3;
-
-public class Car2 {
-	Tire[] tires = { new Tire(7, "앞 왼쪽"),
-	new Tire(4, "앞 오른쪽"),
-	new Tire(5, "뒤 오왼쪽"),
-	new Tire(3, "뒤 오른쪽")};
-	
-}
